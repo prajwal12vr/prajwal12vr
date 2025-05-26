@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&width=600&lines=Hey+there!+I'm+Prajwal+Randive+%F0%9F%91%8B;I+like+to+Wander+Wonder+Debug+%3B%29;Curious.+Creative.+Continental.+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&width=600&lines=Hey+there!+I'm+Prajwal+Randive+%F0%9F%91%8B;I+like+to+Wander+Wonder+Debug+:);Curious.+Creative.+Continental." alt="Typing SVG" />
 </h1>
 
 ✈️ Avid Traveller & Storyteller 🚀 Dreamer 🦎 Ambitious Adapter<br><br>Hey! Prajwal here. To give you an intro about me outside of MS Teams, I am a bit of everything, learning things along the way, laying a path for myself, and building my city of coding one brick at a time. I love collaborating, travelling, building projects, and, moreover, learning from others.<br><br>💼 Projects I am building currently!<br><br>1.My own Travel website<br>2.Profit maximiser for my Mutual Funds Portfolio<br><br>
