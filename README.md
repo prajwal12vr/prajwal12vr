@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&width=600&lines=Hey+there!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;I+like+iced+coffee+%E2%9D%84%EF%B8%8F;Learning+to+code+but+never+late+%F0%9F%91%BB;Curious.+Creative.+Caffeinated+%F0%9F%92%96" alt="Typing SVG" />
+</h1>
+
 # 💫 About Me:
 ✈️ Avid Traveller & Storyteller 🚀 Dreamer 🦎 Ambitious Adapter<br><br>Hey! Prajwal here. To give you an intro about me outside of MS Teams, I am a bit of everything, learning things along the way, laying a path for myself, and building my city of coding one brick at a time. I love collaborating, travelling, building projects, and, moreover, learning from others.<br><br>💼 Projects I am building currently!<br><br>->My own Travel website<br>->Profit maximiser for my MF Portfolio<br><br>
 
@@ -9,3 +13,7 @@
 
 🤝 Let's Connect!
 Open to collaboration, conversations, and cool side quests! > Collaboration > competition If you're into tech, ideas, music, or mindset — let's build something awesome together 💫
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=visits&style=flat&color=brightgreen" alt="Profile Views" />
+</p>
