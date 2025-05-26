@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&width=600&lines=Hey+there!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;I+like+iced+coffee+%E2%9D%84%EF%B8%8F;Learning+to+code+but+never+late+%F0%9F%91%BB;Curious.+Creative.+Caffeinated+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&width=600&lines=Hey+there!+I'm+%5BPrajwal+Randive%5D+%F0%9F%91%8B;I+like+Travelling+Turbulence+TestCases%E2%9D%84%EF%B8%8F;Curious.+Creative.+Continental+%F0%9F%92%96" alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
@@ -15,5 +15,5 @@
 Open to collaboration, conversations, and cool side quests! > Collaboration > competition If you're into tech, ideas, music, or mindset — let's build something awesome together 💫
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=visits&style=flat&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prajwal12vr&label=visits&style=flat&color=brightpurple" alt="Profile Views" />
 </p>
